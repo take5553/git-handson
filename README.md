@@ -11,3 +11,7 @@
 - `git commit` - コミット
 - `git status` - 状態確認
 - `git log` - 履歴確認
+
+## GitHubから編集
+
+この行はGitHubのWeb画面から追加しました。
